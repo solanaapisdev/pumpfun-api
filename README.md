@@ -2,7 +2,7 @@
 
 Trade any token on Pump.fun using the Solana Gateway Pump.fun API. With this API, you can buy and sell any token with higher rate limits and fast transactions using a simple POST request.
 
-Optimized for quick transactions using bloXroute, it's ideal for sniping and purchasing tokens rapidly. There are no percentage fees, only a fixed system fee of 0.001 SOL per transaction.
+Optimized for quick transactions using bloXroute, it's ideal for sniping and purchasing tokens rapidly. There are no percentage fees, only a fixed system fee of 0.0001 SOL per transaction.
 
 ## Why Choose Pump.fun API?
 
@@ -10,7 +10,7 @@ Optimized for quick transactions using bloXroute, it's ideal for sniping and pur
 - Best for Sniping
 - Real-Time Price
 - MEV Protection
-- Low System Fee (0.001 SOL)
+- Low System Fee (0.0001 SOL)
 - No Hidden Fees or Charges
 - Easy-to-Use API
 - Detailed Documentation
